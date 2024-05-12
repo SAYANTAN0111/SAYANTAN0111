@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey Everyone🙋‍♂️
 <h1 align="center">Hi 👋, I'm Sayantan Mandal</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
